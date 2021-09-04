@@ -70,4 +70,4 @@
 <p > (https://akash7shetty.github.io/Portfolio/) </p >
 <p ><b> Thank You,</b> </p >
 <p > Regards </p >
-<p > <b><i> Akash Shetty </i><b></p></div>
+<p > <b><i> Akash Shetty </i><b>
